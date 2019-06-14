@@ -24,6 +24,7 @@ const Home = () => {
   return (
     <>
       <h1>Home Page</h1>
+      <p>This is a simple website to help me learn react routing and as well as some JSON API using the <code>fetch()</code> method.</p>
     </>
   );
 }
