@@ -16,5 +16,5 @@ The `fetch()` method makes it super easy to pull data from a JSON or XML file. L
 
 I'm still having some troubles understanding React Hooks. This is a newer and more effective way of updating states and components in React.<br>
 
-I will still continue learning React as I've fallen in love with the ecosystem and how thinks develop and change flawlessly. I'm truly in-love. Haha.
+I will continue learning React as best as I can. I've fallen in love with the ecosystem and how things develop and change so flawlessly.
 
