@@ -24,7 +24,7 @@ class Users extends Component {
         }).catch( (error) => {
           return <div>{error}</div>
         })
-    }, 2000)
+    }, 1000)
   }
   
   render() {
